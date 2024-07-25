@@ -34,12 +34,11 @@
   align-items: center;
 }
 
-.rapo-name-img{
+.rapo-name-img {
   border-radius: 10px;
-
 }
 
-.repo-links{
+.repo-links {
   display: flex;
   position: absolute;
   bottom: 15px;
@@ -47,14 +46,13 @@
   gap: 1rem;
 }
 
-.repo-Link{
+.repo-Link {
   cursor: pointer;
+  padding-top: 1rem;
   color: aliceblue;
   padding: 5px 20px;
   border-radius: 5px;
-
 }
-
 
 .repo-svg {
   margin-right: 0.5rem;
@@ -72,6 +70,7 @@
   font-weight: 700;
   letter-spacing: -0.5px;
   overflow: hidden;
+  padding-top: 1rem;
   margin: 0px;
 }
 
@@ -86,10 +85,12 @@
   font-family: "Google Sans Regular";
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
+  padding-bottom: 1rem;
 }
 
 .repo-details {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   margin-bottom: 2rem;
   margin-top: 2rem;

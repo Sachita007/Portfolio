@@ -382,6 +382,10 @@ const projects = {
           iconifyClass: "logos-javascript",
         },
         {
+          name: "MongoDB",
+          iconifyClass: "logos-mongodb",
+        },
+        {
           name: "Node.js",
           iconifyClass: "devicon-nodejs",
         },
@@ -393,10 +397,7 @@ const projects = {
           name: "Tailwind",
           iconifyClass: "devicon-tailwindcss",
         },
-        {
-          name: "MongoDB",
-          iconifyClass: "logos-mongodb",
-        },
+
       ],
     },
     {
