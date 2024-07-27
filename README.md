@@ -2,7 +2,7 @@
 
 ![PortFolio](/images/portfolio.gif)
 
-### A clean portfolio template. (Readme will be updated soon)
+
 
 # Sections
 
@@ -19,8 +19,6 @@
 - Check it out using `npm start`
 
 # How Do I Customize
-
-- Replace `homepage` in package.json to your domain name or `https://<username>.github.io`
 - In `src/portfolio.js` you can add your personal portfolio details.
 - In `src/theme.js` you can change the theme colors. You can change between Light and Dark theme with the theme switch on the header.
 
